@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 风格名称显示 -->
+    <string-array name="style_names">
+        <item>Mosaic</item>
+        <item>Candy</item>
+        <item>Rain Princess</item>
+        <item>Udnie</item>
+    </string-array>
+
+    <!-- 对应的模型文件名 -->
+    <string-array name="style_files">
+        <item>mosaic.ptl</item>
+        <item>candy.ptl</item>
+        <item>rain_princess.ptl</item>
+        <item>udnie.ptl</item>
+    </string-array>
+</resources>
